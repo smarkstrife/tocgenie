@@ -1,6 +1,6 @@
 {
   "name": "tocgenie",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A CLI tool that generates a table of contents for markdown files in a git repository",
   "author": "Shikhar Srivastava",
   "license": "MIT",
