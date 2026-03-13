@@ -4,6 +4,29 @@
   "description": "A CLI tool that generates a table of contents for markdown files in a git repository",
   "author": "Shikhar Srivastava",
   "license": "MIT",
+  "keywords": [
+    "markdown",
+    "table-of-contents",
+    "toc",
+    "cli",
+    "anchor",
+    "github",
+    "gitlab",
+    "bitbucket",
+    "documentation",
+    "heading",
+    "generator",
+    "nodejs",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smarkstrife/tocgenie.git"
+  },
+  "homepage": "https://github.com/smarkstrife/tocgenie#readme",
+  "bugs": {
+    "url": "https://github.com/smarkstrife/tocgenie/issues"
+  },
   "main": "dist/cli.js",
   "files": [
     "dist"
